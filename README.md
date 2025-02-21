@@ -1,0 +1,1 @@
+This repository contains a Python function that demonstrates a common code error: stack overflow due to uncontrolled recursion. The original function is flawed because it lacks a base case for negative inputs. The solution demonstrates how to fix it by adding an explicit check to stop recursion when the input is negative.
